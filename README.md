@@ -1,4 +1,8 @@
 # Project Overview 
+
+![ee317c5b-3ec4-473f-a7bd-4fa987c846d3-37eb6732dfac small](https://github.com/estelacruz/simpleUnixShell/assets/79770461/629732d8-a08d-4f1b-bab3-7564746037ba)
+
+
 Designed a simple Unix Shell in C with built-in executable commands such as cd and ls. Supports piping and I/O
 
 # System Design 
